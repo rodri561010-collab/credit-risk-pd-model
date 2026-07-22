@@ -2,6 +2,8 @@
 
 ### Predicting Probability of Default (PD) and Expected Loss for Credit Risk Assessment
 
+APP : https://credit-risk-pd-model-c5x57ljfiwtmzsv6fivgwr.streamlit.app/
+
 ## Project Overview
 
 ![Dashboard](images/dashboard.png)
